@@ -1,6 +1,6 @@
 ## Hi! I'm Kauan. Let's improve results together?
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=KauanQuinzote">
+  <a href="https://github-readme-stats.vercel.app/api?username=KauanQuinzote&show_icons=true&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
