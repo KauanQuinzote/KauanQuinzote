@@ -1,6 +1,6 @@
 ## Hi! I'm Kauan. Let's improve results together?
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanQuinzote)](https://github.com/KauanQuinzote/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanQuinzote)
 </div>
 
 <div style="display: inline_block"><br>
