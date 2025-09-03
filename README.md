@@ -1,6 +1,6 @@
 ## Hi! I'm Kauan. Let's improve results together?
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanQuinzote&show_icons=true&theme=yeblu)](https://github.com/KauanQuinzote/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanQuinzote&show_icons=true&theme=neon)](https://github.com/KauanQuinzote/github-readme-stats)
   
 <div style="display: inline-block;">
 
