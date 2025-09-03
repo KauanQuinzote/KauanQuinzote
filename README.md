@@ -2,30 +2,26 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanQuinzote&show_icons=true&theme=yeblu)](https://github.com/KauanQuinzote/github-readme-stats)
   
-<div style="display: inline_block"><br>
-  
+<div style="display: inline-block;">
+
+  <!-- Frontend -->
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kauan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Kauan-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Kauan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+  <!-- Backend -->
+  <img align="center" alt="Kauan-PHP" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Kauan-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kauan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <!-- Angular -->
-  <img align="center" alt="Kauan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  
-  <!-- Laravel -->
-  <img align="center" alt="Kauan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  
-  <!-- PHP -->
-  <img align="center" alt="Kauan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  <!-- JavaScript -->
-  <img align="center" alt="Kauan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  
-  <!-- SQL (MySQL como exemplo) -->
-  <img align="center" alt="Kauan-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
 
-  
+  <!-- Banco de dados -->
+  <img align="center" alt="Kauan-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
+
 
 <hr>
 
